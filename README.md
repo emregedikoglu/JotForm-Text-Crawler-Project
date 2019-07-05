@@ -28,3 +28,10 @@ Download [Node.js](https://nodejs.org/en/), [Puppeteer.js](https://pptr.dev/), [
 -> Then enter "node textCrawler.js" to terminal and finish.
 
 ![](https://github.com/emregedikoglu/JotForm-Text-Crawler-Project/blob/master/UI%20Sketches/step4.jpg)
+
+## Sample Screenshots
+
+![](https://github.com/emregedikoglu/JotForm-Text-Crawler-Project/blob/master/UI%20Sketches/form-templates-1.png)
+
+![](https://github.com/emregedikoglu/JotForm-Text-Crawler-Project/blob/master/UI%20Sketches/summer-camp-16.png)
+
